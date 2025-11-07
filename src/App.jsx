@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1 className="text-4xl font-bold mb-6">
-          React + Vercel CI/CD
+          React + Vercel CI/CD Dev 
         </h1>
         <p className="text-xl mb-8">
           Welcome to your automatically deployed React app!
